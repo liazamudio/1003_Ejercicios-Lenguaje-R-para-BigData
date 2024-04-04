@@ -1,0 +1,3 @@
+prod211a <- prod(2:11)
+resultado <- 10 * prod211a
+print(resultado)

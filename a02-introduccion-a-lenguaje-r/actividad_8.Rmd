@@ -1,0 +1,11 @@
+---
+title: "R Notebook called 8"
+output: html_notebook
+---
+
+answer <- 0 ; for (j in 3:5) {answer <- j+answer}
+  print(answer)
+answer <- 10 ; for (j in 3:5) {answer <- j+answer}
+  print(answer)
+answer <- 10; for (j in 3:5) {answer <- j*answer}
+  print(answer)

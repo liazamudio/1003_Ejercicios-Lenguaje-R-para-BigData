@@ -1,0 +1,2 @@
+resultado <- prod(10:400)
+print(resultado)

@@ -1,0 +1,5 @@
+producto <- 1
+for (i in 10:400) {
+  producto <- producto * i
+}
+print(producto)

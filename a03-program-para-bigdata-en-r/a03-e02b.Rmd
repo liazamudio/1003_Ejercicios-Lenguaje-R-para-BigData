@@ -1,0 +1,2 @@
+suma <- sum(10:400)
+print(suma)

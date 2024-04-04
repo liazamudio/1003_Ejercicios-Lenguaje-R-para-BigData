@@ -1,0 +1,8 @@
+# Creación del vector con 20 valores aleatorios
+random_vector <- sample(1:100, 20, replace = TRUE)
+
+# Ordenamiento del vector de mayor a menor
+ordered_vector <- sort(random_vector, decreasing = TRUE)
+
+# Imprimir el vector ordenado
+print(ordered_vector)

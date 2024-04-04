@@ -1,0 +1,7 @@
+suma <- 0
+
+for (i in 10:400) {
+  suma <- suma + i
+}
+
+print(suma)
